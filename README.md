@@ -1,6 +1,10 @@
 # mysql-backup
 python paramiko script to backup mysql db and files
+
 check script and change parametrs 
+
+
+
 
 
 
@@ -15,6 +19,8 @@ ssh-keygen
 ssh-copy-id REMOTE-HOST
 
 python3 backup.py
+
+
 
 
 
